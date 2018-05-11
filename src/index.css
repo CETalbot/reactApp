@@ -4,11 +4,13 @@ body {
   font-family: sans-serif;
 }
 .box{
-	background-color: #adad85;
+	background-color: #f3ecea;
 	width: 500px;
 	height: 300px;
-	margin-left: 100px;
+	margin-left: 450px;
 	margin-top: 100px;
+	position: relative;
+	text-align: center;
 }
 #title{
 	text-align: center;
@@ -17,6 +19,14 @@ body {
 	margin-left: 400px;
 	margin-top: 50px;
 }
-#image{
-
+.note{
+	background-color: #f3ecea;
+	position: relative;
+	width: 300px;
+	margin-left: 200px;
+	text-align: center;
 }
+#imgUpload{
+	margin-left: 60px;
+}
+
