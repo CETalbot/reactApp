@@ -22,8 +22,7 @@ body {
 .note{
 	background-color: #f3ecea;
 	position: relative;
-	width: 300px;
-	margin-left: 200px;
+	padding: 10px;
 	text-align: center;
 }
 #imgUpload{
